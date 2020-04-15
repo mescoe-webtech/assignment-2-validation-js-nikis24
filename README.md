@@ -1,3 +1,3 @@
-# assignment-2-html-css
+# assignment-2-validation-js
 Name:- Nikita Shinde<br/>
 Roll No:-42
